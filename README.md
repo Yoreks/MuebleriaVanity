@@ -1,2 +1,2 @@
 # MuebleriaVanity
-Website about a Furniture Shop with Accessibility options
+Landing Page about a Furniture Shop with Accessibility options
